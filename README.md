@@ -16,10 +16,6 @@ I love music and often find inspiration from Bocchi the Rock
 
 Fun fact: I'm a huge fan of Steins;Gate, Bocchi the Rock, and the creative community at Scratch Media Lab of MIT
 
-## My Skills
-
-![Scratch](https://img.shields.io/badge/-Scratch-4D97FF?logo=scratch&logoColor=white&style=for-the-badge)
-
 ## My Projects
 
 > "It might not have connected with as many people, but those it did, it hit deeply." - Yamada Ryo
